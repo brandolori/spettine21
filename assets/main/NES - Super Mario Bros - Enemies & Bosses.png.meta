@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6dbd9b1b-adc5-42f4-81d4-314ec44a4143",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 639,
+  "height": 227,
+  "platformSettings": {},
+  "subMetas": {
+    "NES - Super Mario Bros - Enemies & Bosses": {
+      "ver": "1.0.4",
+      "uuid": "2077e215-f1a1-4186-a1db-0c426499cabc",
+      "rawTextureUuid": "6dbd9b1b-adc5-42f4-81d4-314ec44a4143",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 639,
+      "height": 227,
+      "rawWidth": 639,
+      "rawHeight": 227,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

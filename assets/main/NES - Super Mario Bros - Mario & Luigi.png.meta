@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8c6c2283-a00a-4197-addc-0c348e005a2d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 403,
+  "height": 267,
+  "platformSettings": {},
+  "subMetas": {
+    "NES - Super Mario Bros - Mario & Luigi": {
+      "ver": "1.0.4",
+      "uuid": "5a48f5b4-8f05-470d-9435-1a0a83e6efad",
+      "rawTextureUuid": "8c6c2283-a00a-4197-addc-0c348e005a2d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 403,
+      "height": 267,
+      "rawWidth": 403,
+      "rawHeight": 267,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

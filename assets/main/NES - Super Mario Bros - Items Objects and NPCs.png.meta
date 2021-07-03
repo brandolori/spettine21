@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1dc2bb37-9c96-4041-971e-85cb79a76657",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 576,
+  "height": 336,
+  "platformSettings": {},
+  "subMetas": {
+    "NES - Super Mario Bros - Items Objects and NPCs": {
+      "ver": "1.0.4",
+      "uuid": "b1c5b34e-0a75-4977-8bfb-d987a9000af2",
+      "rawTextureUuid": "1dc2bb37-9c96-4041-971e-85cb79a76657",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 576,
+      "height": 336,
+      "rawWidth": 576,
+      "rawHeight": 336,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
