@@ -3,7 +3,7 @@
   "_name": "PlayerIdle",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 0.35,
+  "_duration": 0.5166666666666667,
   "sample": 60,
   "speed": 1,
   "wrapMode": 2,
@@ -14,19 +14,25 @@
           {
             "frame": 0,
             "value": {
-              "__uuid__": "529ad726-7f21-4ec2-922b-a5c538ea8e24"
+              "__uuid__": "a2528447-2be5-42ab-8464-a72ca0384a39"
             }
           },
           {
             "frame": 0.16666666666666666,
             "value": {
-              "__uuid__": "1751b9ce-2931-4937-983d-7ac3d75f4a17"
+              "__uuid__": "9b927121-a673-40b0-80d1-a5eeecb9e3a3"
             }
           },
           {
             "frame": 0.3333333333333333,
             "value": {
-              "__uuid__": "1751b9ce-2931-4937-983d-7ac3d75f4a17"
+              "__uuid__": "35d716c3-c8d3-4035-b53c-473058f9f973"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "35d716c3-c8d3-4035-b53c-473058f9f973"
             }
           }
         ]

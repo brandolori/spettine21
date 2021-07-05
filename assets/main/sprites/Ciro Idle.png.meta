@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "51330376-dfc4-4fcf-aa35-f081e7c35092",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 16,
+  "height": 16,
+  "platformSettings": {},
+  "subMetas": {
+    "Ciro Idle": {
+      "ver": "1.0.4",
+      "uuid": "f40656ef-ef1e-4909-ba73-bf90d6b70af3",
+      "rawTextureUuid": "51330376-dfc4-4fcf-aa35-f081e7c35092",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 13,
+      "height": 16,
+      "rawWidth": 16,
+      "rawHeight": 16,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

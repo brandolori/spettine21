@@ -21,6 +21,9 @@
       },
       {
         "__id__": 37
+      },
+      {
+        "__id__": 40
       }
     ],
     "_active": false,
@@ -224,7 +227,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "951e7007-a5e4-4bf7-8cb8-f15f6c94b6d1"
+      "__uuid__": "77293bd9-53d0-4fa8-bbc9-31a4d85312ab"
     },
     "_type": 0,
     "_sizeMode": 0,
@@ -292,7 +295,7 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        263.761,
+        207.983,
         0,
         0,
         0,
@@ -331,8 +334,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "L'ISOLA   DELLE   ROSE",
-    "_N$string": "L'ISOLA   DELLE   ROSE",
+    "_string": "CIRO  IN  GIRO!",
+    "_N$string": "CIRO  IN  GIRO!",
     "_fontSize": 100,
     "_lineHeight": 100,
     "_enableWrapText": true,
@@ -368,8 +371,8 @@
     },
     "_offset": {
       "__type__": "cc.Vec2",
-      "x": 3,
-      "y": 3
+      "x": -4,
+      "y": 4
     },
     "_blur": 0,
     "_id": "64JYBWIJhHLYmFeLgm0QqW"
@@ -626,8 +629,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        0,
-        -61.359,
+        339.979,
+        -24.174,
         0,
         0,
         0,
@@ -970,8 +973,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        0,
-        -232.143,
+        339.979,
+        -194.958,
         0,
         0,
         0,
@@ -1487,5 +1490,99 @@
     },
     "fileId": "",
     "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "70-707339_transparent-pizza-box-png-pizza-box-pixel-art",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 41
+      }
+    ],
+    "_prefab": null,
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 651,
+      "height": 415
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        353.376,
+        244.905,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": "88qXbPAqBOx6mIjXLc4Fnl"
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 40
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "90e1a601-784d-4c5a-b1d9-fd883d76db63"
+    },
+    "_type": 0,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": "fdGO9JmbtBZZg8km0pQ4y1"
   }
 ]

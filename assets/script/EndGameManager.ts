@@ -51,7 +51,7 @@ export default class EndGameManager extends cc.Component {
             this.shareButton.on(cc.Node.EventType.TOUCH_END, () => {
                 const shareText = LevelSpecific.instance.shareEndString
                     .replace("{score}", score.toString())
-                    .replace("{url}", "https://games.nonstudio.org/rgd/")
+                    .replace("{url}", window.location.href )
 
                 navigator.share({
                     text: shareText,

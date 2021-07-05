@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "91d318f5-3d69-4943-89c8-0efe36e04974",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 900,
+  "height": 614,
+  "platformSettings": {},
+  "subMetas": {
+    "70-707339_transparent-pizza-box-png-pizza-box-pixel-art": {
+      "ver": "1.0.4",
+      "uuid": "90e1a601-784d-4c5a-b1d9-fd883d76db63",
+      "rawTextureUuid": "91d318f5-3d69-4943-89c8-0efe36e04974",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 12,
+      "trimX": 50,
+      "trimY": 40,
+      "width": 800,
+      "height": 510,
+      "rawWidth": 900,
+      "rawHeight": 614,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

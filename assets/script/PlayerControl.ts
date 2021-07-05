@@ -40,7 +40,7 @@ export default class PlayerControl extends cc.Component {
                     this.anim.play("PlayerIdle")
                     break;
                 case "jumping":
-                    this.anim.play("PlayerJump")
+                    this.anim.play("PlayerWalk")
                     break;
                 case "walking":
                     this.anim.play("PlayerWalk")
