@@ -6549,7 +6549,7 @@
   {
     "__type__": "cc.Node",
     "_name": "PlayerFeet",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 178
     },
@@ -6665,12 +6665,12 @@
     "body": null,
     "_offset": {
       "__type__": "cc.Vec2",
-      "x": 1.7,
-      "y": -43.8
+      "x": 0,
+      "y": -26
     },
     "_size": {
       "__type__": "cc.Size",
-      "width": 55.6,
+      "width": 64,
       "height": 12.3
     },
     "_id": "4cAs4OhT9ELK2y4z5BXMeQ"
@@ -6754,7 +6754,7 @@
     "_size": {
       "__type__": "cc.Size",
       "width": 64,
-      "height": 64
+      "height": 60
     },
     "_id": "5dppom4nxK3rZn5AlxD8J8"
   },
