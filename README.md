@@ -1,6 +1,4 @@
-# Rimini Game Design Platformer Game
-
-**WORK IN PROGRESS**
+# Ciro in Giro
 
 Progetto per Cocos Creator 2.4.5
 
