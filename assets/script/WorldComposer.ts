@@ -25,7 +25,7 @@ export default class NewClass extends cc.Component {
     groups: ObjGroupSerializer[] = []
 
     onLoad() {
-        this.worldMap.enableCulling(false)
+        // this.worldMap.enableCulling(false)
 
         const collisionObjects = this.worldMap.getObjectGroup(this.collisionGroupName).getObjects()
 
